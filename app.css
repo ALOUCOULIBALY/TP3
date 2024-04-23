@@ -1,0 +1,42 @@
+#bottomMenu {
+    position:absolute;
+    right:23%;
+    /* top:0; */
+    bottom:0%;
+    height: 20%;  
+    width: 65%;
+    background-color: red;
+}
+
+
+#rightMenu {
+    position:absolute;
+    right:0%;
+    /* top:0; */
+    bottom:0%;
+    height: 100vh;  
+    width: 23%;
+    background-color: blueviolet;
+
+}
+#map {
+    position:absolute;
+    right:23%;
+    /* top:0; */
+    bottom:20%;
+    height: 100vh;  
+    width: 65%;
+}
+    
+/**#loadWFS {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation: myAnimation 5s infinite alternate;
+}
+
+@keyframes myAnimation {
+    from {left: 0;}
+    to {left: 200px;}
+}/
